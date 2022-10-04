@@ -19,7 +19,9 @@ var fictions = [
 "Workers at our Library know that they'll have the Library's complete support if someone is racist toward them",
 "Our library closed all its buildings through as much of the pandemic as it could, including not pressuring staff to work in 'closed' buildings",
 "When our library needed to reopen after the pandemic, it provided an ongoing supply of n95s to all staff",
-"Our library advocates for the expressed needs and rights of all people in its spaces, including workers employed elsewhere in the university, such as housecleaning staff"
+"Our library advocates for the expressed needs and rights of all people in its spaces, including workers employed elsewhere in the university, such as housecleaning staff",
+"Our library goes beyond the 'libraries are for everyone' idea by actively attending to behaviors and practices that *aren't* welcome in the library because they make it a less just and accessible space",
+"Our library proactively created a policy and checklist on how to respond to harassment experience by its staff, including student workers and harassment in online spaces, and staff know they'll have the library's support, advocacy, care, and don't need to fear punishment if they are targeted by harassers"
 ]
 
 function newFictions() {
