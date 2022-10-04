@@ -3,7 +3,7 @@ Speculative bits. My/our POV, not MPOV=MPOW (there's some kind of wordplay possi
 
 ## Citations
 
-Cassius Adair's AU: ALternate University https://aualternateuniversity.com/
+Cassius Adair's AU: Alternate University https://aualternateuniversity.com/
 
 Mackenzie Brook's Icebreaker Generator https://github.com/mackenziekbrooks/icebreaker-generator
 
