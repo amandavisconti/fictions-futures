@@ -1,5 +1,5 @@
 # fictions-futures
-Speculative bits. My/our POV, not MPOV=MPOW
+Speculative bits. My/our POV, not MPOV=MPOW (there's some kind of pun there: point of view, #MPOW as Twitter shorthand for anonymizing references to My Place of Work, not My Place of Vocation to cite Fobazi Ettarh's scholarship https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/)
 
 ## Citations
 
