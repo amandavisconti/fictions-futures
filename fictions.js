@@ -1,5 +1,5 @@
 var fictions = [
-"The work of learning encomapsses everyone learning themselves or supporting others who are learning, so we call all learners our colleagues regardless of their role or affiliation with our library or university",
+"The work of learning encompasses everyone learning themselves or supporting others who are learning, so we call all learners our colleagues regardless of their role or affiliation with our library or university",
 "Every worker in our library has not just a living wage for our area's cost of living, but a wage that allows healthy and convenient food, secure housing, savings, security taking a slow librarianship approach to work-life balance, elective healthcare, the ability to provide these for chosen family, the ability to participate in mutual aid projects...",
 "Every worker's pay rises to match cost of living increases every year.",
 "Our library tries to balance the benefits of flatter organizational structures, with transparency and clarity about the ways we can't do this inside larger university systems, and the ease with which power and its problems hide within structures declared to be flatter",
