@@ -9,7 +9,8 @@ var fictions = [
 "Our library has a transparent and well documented system for promotion, funding requests, budgets, and hiring ranges.",
 "Our library actively incentivizes slow librarianship, putting systems in place to encourage and reward healthy work-life balance",
 "Our library has an explicit policy of banking any hours worked over 40/week for future time off use",
-"In our library, we attend to the difference between listening and hearing. Managers aren't just available to listen to staff concerns—they're also accountable to update their plans based on new knowledge and follow through with actions"
+"In our library, we attend to the difference between listening and hearing. Managers aren't just available to listen to staff concerns—they're also accountable to update their plans based on new knowledge and follow through with actions",
+"Our library workers are encouraged to feel comfortable if they want to join their union or take collective action"
 ]
 
 function newFictions() {
