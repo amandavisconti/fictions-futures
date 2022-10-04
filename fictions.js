@@ -15,7 +15,11 @@ var fictions = [
 "Our library pushes back on university emails that don't match our values and understandings, such as emails framing burnout and mental illness as personal failings, or university projects that encourage fatphobia as part of gathering health data for 3rd parties",
 "Our library works to keep all its workers able to successfully find a job elsewhere should they wish to",
 "Our library truly wishes to retain all its current staff, and staff know it",
-"Our library gives the staff a real say in the design of policies"
+"Our library gives the staff a real say in the design of policies",
+"Workers at our Library know that they'll have the Library's complete support if someone is racist toward them",
+"Our library closed all its buildings through as much of the pandemic as it could, including not pressuring staff to work in 'closed' buildings",
+"When our library needed to reopen after the pandemic, it provided an ongoing supply of n95s to all staff",
+"Our library advocates for the expressed needs and rights of all people in its spaces, including workers employed elsewhere in the university, such as housecleaning staff"
 ]
 
 function newFictions() {
